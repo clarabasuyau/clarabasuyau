@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Clara 🤖</h1>
 <h3 align="center">A full-stack developer from Paris</h3>
 
-- currently learnin React
+- 🐾 I am currently learning React
 - 📫 How to reach me **clarabasuyau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
