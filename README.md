@@ -2,6 +2,7 @@
 <h3 align="center">A full-stack developer from Paris</h3>
 
 - 🐾 I am currently learning React
+- Actually working on Moongi website ☕️
 - 📫 How to reach me **clarabasuyau@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
